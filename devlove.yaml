@@ -1,0 +1,7 @@
+---
+shimmercat-devlove:
+    domains:
+        www.express-website.mine:
+            root-dir: client-bin
+        myapi.express-website.mine:
+            port: 8000
