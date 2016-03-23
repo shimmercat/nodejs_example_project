@@ -3,6 +3,8 @@
 # Abort on first error
 set -e
 
+mkdir -p client-bin
+
 echo "Copying HTML file"
 cp client-src/index.html client-bin/index.html
 
